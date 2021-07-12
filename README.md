@@ -10,6 +10,7 @@ The idea came from [WebDevSimplified](https://github.com/WebDevSimplified/Zoom-C
 - Express
 - Socket.io
 - UUID
+- Peer.js
 
 # Motivation
 I wanted to learn a bit of Node and Express, and thought it would be fun to throw in some Socket.io since it seems important. 
